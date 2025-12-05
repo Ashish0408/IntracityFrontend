@@ -9,7 +9,9 @@ const defaultPadding = 16.0;
 
 // const MAIN_URL = 'https://intracity.onrender.com/api';
 // const MAIN_URL = 'http://localhost:8080/api';
-const MAIN_URL = 'http://192.168.29.134:8081/api';
+// const MAIN_URL = 'http://192.168.29.134:8081/api';
+
+const MAIN_URL = 'https://intracity.onrender.com/api';
 
 // FlutterSecureStorage provider
 final secureStorageProvider = Provider<FlutterSecureStorage>((ref) {

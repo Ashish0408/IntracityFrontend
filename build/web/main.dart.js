@@ -48696,7 +48696,7 @@ return A.N($async$ph,r)}}
 A.al2.prototype={
 $0(){var s=0,r=A.O(t.l),q,p=this,o,n,m
 var $async$$0=A.I(function(a,b){if(a===1)return A.L(b,r)
-while(true)switch(s){case 0:m=A.cT("http://192.168.29.134:8081/api/"+p.b,0,null)
+while(true)switch(s){case 0:m=A.cT("https://intracity.onrender.com/api/"+p.b,0,null)
 m.j(0)
 $.eL()
 o=p.c
@@ -48715,7 +48715,7 @@ A.al0.prototype={
 $0(){var s=0,r=A.O(t.l),q,p=this,o,n,m
 var $async$$0=A.I(function(a,b){if(a===1)return A.L(b,r)
 while(true)switch(s){case 0:o=A
-n=A.cT("http://192.168.29.134:8081/api/"+p.b,0,null)
+n=A.cT("https://intracity.onrender.com/api/"+p.b,0,null)
 m=B.am.iq(p.c)
 s=3
 return A.K(p.a.pj(p.d),$async$$0)
@@ -48729,7 +48729,7 @@ A.al3.prototype={
 $0(){var s=0,r=A.O(t.l),q,p=this,o,n,m
 var $async$$0=A.I(function(a,b){if(a===1)return A.L(b,r)
 while(true)switch(s){case 0:o=A
-n=A.cT("http://192.168.29.134:8081/api/"+p.b+"/"+p.c,0,null)
+n=A.cT("https://intracity.onrender.com/api/"+p.b+"/"+p.c,0,null)
 m=B.am.iq(p.d)
 s=3
 return A.K(p.a.pj(p.e),$async$$0)
@@ -48743,7 +48743,7 @@ A.al1.prototype={
 $0(){var s=0,r=A.O(t.l),q,p=this,o,n
 var $async$$0=A.I(function(a,b){if(a===1)return A.L(b,r)
 while(true)switch(s){case 0:o=A
-n=A.cT("http://192.168.29.134:8081/api/"+p.b+"/"+p.c,0,null)
+n=A.cT("https://intracity.onrender.com/api/"+p.b+"/"+p.c,0,null)
 s=3
 return A.K(p.a.pj(p.d),$async$$0)
 case 3:q=o.b00(n,b)
